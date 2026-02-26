@@ -1,0 +1,27 @@
+.rail {
+  margin: 15px 0;
+}
+
+.rail .railTitle {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.rail .railItems {
+  display: flex;
+}
+
+.rail .railItem {
+  margin-right: 10px;
+}
+
+.rail .railItem .poster {
+  height: 120px;
+  width: 200px;
+  background-color: rgb(188, 197, 199);
+}
+
+.rail .railItem .title {
+  font-size: 16px;
+}
